@@ -7,12 +7,12 @@ This data analysis project aims to provide inghts and recommendation on customer
 ### Problem Statement
 I received an email from the retention manager from telecom reaches out to me and asked if i could put together a dashboard that would cover the following:
 
-- Customer retention and churn rateas they do not want to lose their customers.
-- The compaany want to know in advance who is at risk.
+- Customer retention and churn rate as they do not want to lose their customers.
+- The company want to know in advance who is at risk.
 - The retention department want to get back customers back incase of termination
 
 Data Source
-The dataset used for this analysis was provided by PhoneNow (PWC virtual job simmulation on forage platform) it consists of 10 columns and 5000 rows
+The dataset used for this analysis was provided by (PWC virtual job simmulation on forage platform)
 
 Tools
 Powerbi (Data Cleaning, Data Modeling, Data Analysis and Visualisation)
@@ -20,16 +20,13 @@ Data Cleaning and Preparation
 In the initil preparation phase, we performed the folloing tasks:
 
 Data Loading and inspection.
-promoted headers.
-handling missing values.
-Replacing Null values with 0.
-Checked for blank cells and missing values using the column quality check.
-Changed data type for Date and Time columns.
-Replaced values Y/N with Yes/No.
-Removed Duplicates.
-Removed columns that were not relevant to the analysis.
-Renamed Columns.
-applied steps
+promoted headers
+Changed type
+Renamed Columns
+Filtered Rows
+Extracted text Before Delimiter
+Replaced Values
+Rounded Down
 
 Data Modeling
 The dataset comprised of just one table that was modelled into into four tables creating a one to many and a one to one relationship to the fact table.
