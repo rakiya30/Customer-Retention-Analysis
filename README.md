@@ -32,28 +32,7 @@ Rounded Down
 Data Modeling
 dataset comprised of just one table and no relationships were created
 
-
-
-
-Dax Measures Creation
-In addition to the data cleaning and data modelling,I created some Mesures to gain critical and deeper insights.
-
-the following measures were created:
-
-Total calls Resolved
-Total calls Unresolved
-Overall customer satisfaction
-Count of satisfaction Rating
-Exploratory Data Analysis
-What is the Overall customer satisfaction?
-Overall calls answered/abandoned
-Calls by time
-What is the Average speed of answer by agent?
-Agents performance quadrant (average handle time talk duration/calls answered)
-What is the total number of calls resolved?
-what is the average satisfaction rating?
-Data Analysis and Insights
-Phone Now Call Centre Trends
+![data model (customer retention)](https://github.com/rakiya30/Customer-Retention-Analysis/assets/154539987/5da294c4-0ebe-453e-bfbb-cb9c8f6c0839
 
 The results of my analysis is summarized as follows:
 
