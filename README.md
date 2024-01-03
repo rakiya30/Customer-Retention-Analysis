@@ -11,13 +11,14 @@ I received an email from the retention manager from telecom reaches out to me an
 - The company want to know in advance who is at risk.
 - The retention department want to get back customers back incase of termination
 
-Data Source
+### Data Source
 The dataset used for this analysis was provided by (PWC virtual job simmulation on forage platform)
 
-Tools
+### Tools
 Powerbi (Data Cleaning, Data Modeling, Data Analysis and Visualisation)
 Data Cleaning and Preparation
-In the initial preparation phase, we performed the folloing tasks:
+
+### Data Preparation Phase, we performed the following tasks:
 
 Data Loading and inspection.
 promoted headers
@@ -27,31 +28,63 @@ Filtered Rows
 Extracted text Before Delimiter
 Replaced Values
 Rounded Down
+
 ![retention screenshot](https://github.com/rakiya30/Customer-Retention-Analysis/assets/154539987/1e2f2ab9-8154-4a59-963e-7d5969aa2d79)
 
-Data Modeling
+### Data Modeling
 dataset comprised of just one table and no relationships were created
 
-![data model (customer retention)](https://github.com/rakiya30/Customer-Retention-Analysis/assets/154539987/5da294c4-0ebe-453e-bfbb-cb9c8f6c0839
+![data model (customer retention)](https://github.com/rakiya30/Customer-Retention-Analysis/assets/154539987/16590c4f-7b8d-418d-9610-e730375aee45)
 
-The results of my analysis is summarized as follows:
 
-A total of 4054 calls where answered by the agents.
-A total of 946 calls were abandoned.
-54.75 accounted for the average speed of answer in seconds.
-40.46% overall customer satisfaction.
-Agent Martha had the highest sped of answer in seconds and was 13.14% higher than Stewart which had the lowest speed of answer in seconds.
-Accross all 8 agents the speed of answer in second ranged from 31570 - 35717.
-Agent Jim had the highest number of calls answered at 536 with an overall satisfaction rate of 40.24%.
-Agent Stewart had the highest number of calls abandoned with a total of 105 unanswered calls.
-Agent Dan had the highest number of calls answered that was resolved at 471.
-Diane and Jim had the highest total number of calls that was unresolved.
-Jim also accounted foor the highest average talk duration.
-Recommendations
-Enhance agent training: Identify key patterns and behaviors in customer-agent interactions over time. Use this analysis to improve agent training programs, focusing on areas that require attention or additional development. This will empower agents to better handle customer inquiries and provide more effective solutions.
+### The results of my analysis is summarized as follows:
 
-Implement self-service options: Identify common customer issues that can be resolved through self-service options. Develop and implement self-service tools such as knowledge bases, FAQs, or automated chatbots. This will enable customers to find answers to their queries independently, reducing the overall workload on agents and improving efficiency.
+- Customer Segmentation: Through careful analysis we identified distinct customer segments
+based on their behaviour, demographics and preferences understanding these segments can
+help tailor retention strategies to specific customer needs. Our analysis also revealed that
+the number of male customers was higher than females. also, not senior citizen in the
+gender male made up 42.33%, Average count of customer was higher for male (1777.50)
+Female (1744). Majority of our customers do not have partners nor dependents.
 
-Personalize customer interactions: Leverage the insights gained from the analysis to personalize customer interactions. Utilize customer data to understand preferences, history, and previous interactions. This will enable agents to tailor their approach and provide a more personalized experience, leading to higher customer satisfaction and loyalty.
+- Churn patterns: We observed that significant number of customers churn after one month
+of their relationship with the company. Also, Month to month contract also accounts for the
+highest number of churn when compared with the two other types of contracts. This
+indicates the importance of focusing on early engagement and ensuring positive onboarding
+experience.
 
-Continuously monitor and optimize processes: Establish a system for ongoing monitoring of customer-agent interactions and performance metrics. Regularly
+- Contract: from our findings most customers opt for the month- month contract which
+amounted to (3875), two year (1695) and one year (1473). However there seem to be a high
+churn trend with customers who opted for the month- month contract.
+
+- Payment method: most customers seem to prefer the Electronic check which takes up
+33.58% of the total number of customers who use the service, Mail check (22.89%), Bank
+transfer (21.92%), and the least preferred payment method Credit card (21.61%).
+
+- Ticket: A total of 3632 Admin tickets and 2955 Tech Tickets were opened.
+
+- Tenure: from the insights the least tenure is one month with 72 months been the highest.
+  
+![customer retention screenshot](https://github.com/rakiya30/Customer-Retention-Analysis/assets/154539987/231c5051-2d6a-42e7-9b18-677866127034)
+
+### Recommendations:
+
+1. Provide additional benefits and loyalty rewards for customers who opt for contracts more
+than one year contact as the insights reveal that these types of customers maintain a long
+relationship with the business and the least number of churned.
+
+2. Prioritize resolving customer tickets promptly and provide additional training and support to
+staff on how to deal with customer query.
+
+3. Encourage more customers to use their credit cards to make payment by offering cash backs
+and exclusive discounts and points. This can also encourage customer retention and
+referrals.
+
+4. Target senior citizens by making services and payment methods seamless and user-friendly
+offering discounts especially on birthdays.
+
+5. Customer feedback: implement a system for collecting and analysing customer feedback.
+This can include surveys, feedback form, follow up emails. Actively listen to customers
+concerns address their needs and use their feedback to drive continuous improvements.
+
+I believe that implementing these recommendations will significantly improve customer retention
+and reduce churn rate. 
