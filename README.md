@@ -27,9 +27,11 @@ Filtered Rows
 Extracted text Before Delimiter
 Replaced Values
 Rounded Down
+![retention screenshot](https://github.com/rakiya30/Customer-Retention-Analysis/assets/154539987/1e2f2ab9-8154-4a59-963e-7d5969aa2d79)
 
 Data Modeling
-The dataset comprised of just one table that was modelled into into four tables creating a one to many and a one to one relationship to the fact table.
+taset comprised of just one table that was modelled into into four tables creating a one to many and a one to one relationship to the fact table.
+
 
 Data modelling phone now
 
