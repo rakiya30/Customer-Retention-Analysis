@@ -17,7 +17,7 @@ The dataset used for this analysis was provided by (PWC virtual job simmulation 
 Tools
 Powerbi (Data Cleaning, Data Modeling, Data Analysis and Visualisation)
 Data Cleaning and Preparation
-In the initil preparation phase, we performed the folloing tasks:
+In the initial preparation phase, we performed the folloing tasks:
 
 Data Loading and inspection.
 promoted headers
@@ -30,10 +30,10 @@ Rounded Down
 ![retention screenshot](https://github.com/rakiya30/Customer-Retention-Analysis/assets/154539987/1e2f2ab9-8154-4a59-963e-7d5969aa2d79)
 
 Data Modeling
-taset comprised of just one table that was modelled into into four tables creating a one to many and a one to one relationship to the fact table.
+dataset comprised of just one table and no relationships were created
 
 
-Data modelling phone now
+
 
 Dax Measures Creation
 In addition to the data cleaning and data modelling,I created some Mesures to gain critical and deeper insights.
