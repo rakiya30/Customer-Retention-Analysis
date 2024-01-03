@@ -1,3 +1,4 @@
+
 # Customer-Retention-Analysis (PWC Virtual Job Simulation on Forage)
 
 An Analysis on Telecom Customer Retention and Churn Rate 
@@ -6,11 +7,15 @@ An Analysis on Telecom Customer Retention and Churn Rate
 This data analysis project aims to provide inghts and recommendations on customer retention and churn rate that reflects all the relevant Key Performance Indicators(KPIs) and metrics in the dataset
 
 ### Problem Statement
-I received an email from the retention manager from telecom reaches out to me and asked if i could put together a dashboard that would cover the following:
+The retention manager from telecom reached out to me via emil and asked if i could put together a dashboard that would cover the following:
 
 - Customer retention and churn rate as they do not want to lose their customers.
 - The company want to know in advance who is at risk.
-- The retention department want to get back customers back incase of termination
+- The retention department want to get back customers back incase of termination.
+- Customers who left within the last month.
+- Services each customer has signed up for.
+- Demographic information about customers- gender, age range and if they have patners and dependents.
+- Total charges and number of tickets created.
 
 ### Data Source
 The dataset used for this analysis was provided by (PWC virtual job simmulation on forage platform)
