@@ -4,7 +4,7 @@ An Analysis about Telecom Customer Retention and Churn Rate
 ### Project Overview
 This data analysis project aims to provide inghts and recommendation on customer retention and agent behaviour that reflects all the relevant Key Performance Indicators(KPIs) and metrics in the dataset
 
-Problem Statement
+### Problem Statement
 I received an email from the retention manager from telecom reaches out to me and asked if i could put together a dashboard that would cover the following:
 
 - Customer retention and churn rateas they do not want to lose their customers.
