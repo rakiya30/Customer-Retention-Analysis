@@ -13,7 +13,7 @@ This Report Would be Analysing and Providing Answers and Recommendation to the f
 - Databel wants to know in advance who is at risk.
 - Investigate the different reasons why customers churn.
 - Databel is wondering if the promos launched by competitors in certain states has impacted customers.
-- Ivestigate the churn rate by state.
+- Investigate the churn rate by state.
 - An Aanalysis of Databel customer demographic using age ("Senior", "Under 30", "Others")
 - Analyse Customer age and their respective Churn Rate.
 - Analyse if Customers that are part of a group indeed have a lower phone bill and if it has an impact on Churn Rate
@@ -32,14 +32,14 @@ Data Cleaning and Preparation
 
 ### Data Preparation Phase, we performed the following tasks:
 
-Data Loading and inspection.
-promoted headers
-Changed type
-Renamed Columns
-Filtered Rows
-Extracted text Before Delimiter
-Replaced Values
-Rounded Down
+- Data Loading and inspection.
+- promoted headers
+- Changed type
+- Renamed Columns
+- Filtered Rows
+- Extracted text Before Delimiter
+- Replaced Values
+- Rounded Down
 
 
 ### Data Modeling
@@ -74,7 +74,8 @@ highest number of churn when compared with the two other types of contracts. Thi
 indicates the importance of focusing on early engagement and ensuring positive onboarding
 experience.
 
-### Payment Method: Direct Debit had the highest Number of Customers at 3702, followed by Credit Card at 2614 and Paper Check at 371.﻿ from our findings ﻿
+### Payment Method:
+-Direct Debit had the highest Number of Customers at 3702, followed by Credit Card at 2614 and Paper Check at 371.﻿ from our findings ﻿
 ﻿﻿Direct Debit accounted for 71.62% of Number of Customers.﻿﻿
 ﻿﻿
 
