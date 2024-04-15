@@ -1,5 +1,5 @@
 
-# Customer-Retention-Analysis (PWC Virtual Job Simulation on Forage)
+# Customer-Churn-Analysis (PWC Virtual Job Simulation on Forage)
 
 An Analysis on Telecom CustomerChurn Rate 
 
