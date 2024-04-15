@@ -4,7 +4,7 @@
 An Analysis on Telecom CustomerChurn Rate 
 
 ### Project Overview
-This data analysis project aims to provide inghts and recommendations on customer retention and churn rate that reflects all the relevant Key Performance Indicators(KPIs) and metrics in the dataset
+This data analysis project aims to provide inghts and recommendations on customer churn rate that reflects all the relevant Key Performance Indicators(KPIs) and metrics in the dataset
 
 ### Problem Statement
 This Report Would be Analysing and Providing Answers and Recommendation to the following Databel Business Question :
