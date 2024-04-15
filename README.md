@@ -56,27 +56,30 @@ Rounded Down
 
 ![Churn Insights](https://github.com/rakiya30/Customer-Retention-Analysis/assets/154539987/4814b18f-7aaa-450d-b066-1ea4c8a9b6bf)
 
-- Overview: The Churn Rate for Databel is 27% and 45% of the reasons why customers churn is related to competitors.
+### Overview:
+- The Churn Rate for Databel is 27% and 45% of the reasons why customers churn is related to competitors.
 - A total of 1796 Databel Customers Churned
 - The Churn Rate in Califonia is Abnormally high at 60%. Our insights also reveal that Customers within CA had the highest churn rate for customers who have a month-month contract
 - Customers who have monthly contracts churn more than customers who have yearly based contracts.
   
   
-- Customer Segmentation: Through careful analysis we identified distinct customer segments
+### Customer Segmentation:
+-  Through careful analysis we identified distinct customer segments
 based on their behaviour, demographics and preferences understanding these segments can
 help tailor retention strategies to specific customer needs. Our analysis also revealed that at 38.46%, Senior had the highest Churn Rate and was 67.20% higher than Under 30, which had the lowest Churn Rate at 23.00%.
 
-- Churn patterns:direct debit had the highest Average of Account Length (in months) (50.53) and Paper Check had the highest Churn Rate (57.33%). The Contract Category with the highest Average of Account Length (in months) was Yearly and the Contract Category with the highest Churn Rate was Monthly.﻿Also, Month to month contract also accounts for the
+### Churn patterns:
+- direct debit had the highest Average of Account Length (in months) (50.53) and Paper Check had the highest Churn Rate (57.33%). The Contract Category with the highest Average of Account Length (in months) was Yearly and the Contract Category with the highest Churn Rate was Monthly.﻿Also, Month to month contract also accounts for the
 highest number of churn when compared with the two other types of contracts. This
 indicates the importance of focusing on early engagement and ensuring positive onboarding
 experience.
 
-- Payment Method: Direct Debit had the highest Number of Customers at 3702, followed by Credit Card at 2614 and Paper Check at 371.﻿ from our findings ﻿
+### Payment Method: Direct Debit had the highest Number of Customers at 3702, followed by Credit Card at 2614 and Paper Check at 371.﻿ from our findings ﻿
 ﻿﻿Direct Debit accounted for 71.62% of Number of Customers.﻿﻿
 ﻿﻿
 
-
-- Insights: Less than 5GB in Unlimited Data Plan  made up 20.70% of Churn Rate.
+### Insights:
+-  Less than 5GB in Unlimited Data Plan  made up 20.70% of Churn Rate.
 - Average Churn Rate was higher for Yes (0.32) than No (0.24).
 - Churn Rate for Yes and No diverged the most when the Grouped Consumption was Less than 5GB, when Yes were 22.40% higher than No.
 - We also observed that 72% of customers who actively make international calls but do not have an international plan.
