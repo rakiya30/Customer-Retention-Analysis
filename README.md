@@ -47,17 +47,14 @@ Rounded Down
 
 
 ### The Results of my Analysis is summarized as follows:
-
-![Databel overview](https://github.com/rakiya30/Customer-Retention-Analysis/assets/154539987/c0555369-c2ac-4d00-9a0a-1b2a615a4da5)
-
-
-![databel agegroup](https://github.com/rakiya30/Customer-Retention-Analysis/assets/154539987/24388efa-8475-41bd-8661-1f1a7c645bca)
+![Churn Overview](https://github.com/rakiya30/Customer-Retention-Analysis/assets/154539987/3b766686-eba1-433d-bf04-2c7136adbab6)
 
 
-![databel insights](https://github.com/rakiya30/Customer-Retention-Analysis/assets/154539987/ed8c7f4c-5a85-4900-8868-997f1e7585b3)
+![Churn Age Group](https://github.com/rakiya30/Customer-Retention-Analysis/assets/154539987/ff7f0e2a-9029-4f51-893b-ae03c9b7eba9)
 
 
 
+![Churn Insights](https://github.com/rakiya30/Customer-Retention-Analysis/assets/154539987/4814b18f-7aaa-450d-b066-1ea4c8a9b6bf)
 
 
 - Customer Segmentation: Through careful analysis we identified distinct customer segments
