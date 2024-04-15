@@ -7,7 +7,7 @@ An Analysis on Telecom CustomerChurn Rate
 This data analysis project aims to provide inghts and recommendations on customer retention and churn rate that reflects all the relevant Key Performance Indicators(KPIs) and metrics in the dataset
 
 ### Problem Statement
-This Report Would be Analysing and Proiding Answers and Recommendation to the following Business Question :
+This Report Would be Analysing and Providing Answers and Recommendation to the following Databel Business Question :
 
 - Customer churn rate as they do not want to lose their customers.
 - Databel wants to know in advance who is at risk.
@@ -24,7 +24,7 @@ This Report Would be Analysing and Proiding Answers and Recommendation to the fo
 - What is the average extra data charges for customers who are not on unlimited data planand consumed more than 10 gigabytes of data.
 
 ### Data Source
-The dataset used for this analysis was provided by DataCamp
+The dataset used for this analysis was provided by PWC Virtual job Simulation
 
 ### Tools
 Powerbi (Data Cleaning, EDA, Data Analysis and Visualisation)
@@ -44,12 +44,20 @@ Rounded Down
 
 ### Data Modeling
 - dataset comprised of just one table and no relationships were created
+
+
+### The Results of my Analysis is summarized as follows:
   
 
-![data model (customer retention)](https://github.com/rakiya30/Customer-Retention-Analysis/assets/154539987/16590c4f-7b8d-418d-9610-e730375aee45)
+![databel agegroup](https://github.com/rakiya30/Customer-Retention-Analysis/assets/154539987/24388efa-8475-41bd-8661-1f1a7c645bca)
 
 
-### The results of my analysis is summarized as follows:
+![databel insights](https://github.com/rakiya30/Customer-Retention-Analysis/assets/154539987/ed8c7f4c-5a85-4900-8868-997f1e7585b3)
+
+![Databel overview](https://github.com/rakiya30/Customer-Retention-Analysis/assets/154539987/c0555369-c2ac-4d00-9a0a-1b2a615a4da5)
+
+
+
 
 - Customer Segmentation: Through careful analysis we identified distinct customer segments
 based on their behaviour, demographics and preferences understanding these segments can
@@ -76,7 +84,7 @@ transfer (21.92%), and the least preferred payment method Credit card (21.61%).
 
 - Tenure: from the insights the least tenure is one month with 72 months been the highest.
   
-![customer retention screenshot](https://github.com/rakiya30/Customer-Retention-Analysis/assets/154539987/231c5051-2d6a-42e7-9b18-677866127034)
+
 
 ### Recommendations:
 
