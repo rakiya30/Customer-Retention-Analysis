@@ -1,7 +1,7 @@
 
 # Customer-Retention-Analysis (PWC Virtual Job Simulation on Forage)
 
-An Analysis on Telecom Customer Retention and Churn Rate 
+An Analysis on Telecom CustomerChurn Rate 
 
 ### Project Overview
 This data analysis project aims to provide inghts and recommendations on customer retention and churn rate that reflects all the relevant Key Performance Indicators(KPIs) and metrics in the dataset
@@ -11,17 +11,23 @@ The retention manager from telecom reached out to me via emil and asked if i cou
 
 - Customer retention and churn rate as they do not want to lose their customers.
 - The company want to know in advance who is at risk.
-- The retention department want to get back customers back incase of termination.
+- Investigate the different reasons why customers churn.
+- The company is wondering if the promos launched by competitors in certain states has impacted customers.
+- Ivestigate the churn rate by state.
+- An Aanalysis of customer demographic using age ("Senior", "Under 30", "Others")
+- Analyse customer age and their respective churn rate.
+- Analyse if customers that are part of a group indeed have a lower  phone bill and if it has an impact on churn rate
 - Customers who left within the last month.
-- Services each customer has signed up for.
-- Demographic information about customers- gender, age range and if they have patners and dependents.
-- Total charges and number of tickets created.
+- How does Unlimited data plan influence churn rate
+- Analyse the international activity of customers and its relationship to churn. Databel are curious about the behaviour of customers who call internationallyand if paying for an international plan influences their loyalty
+- Ivestigate three Important topics related to customers, their payment method,the contract type and how many months a person has been a customer.
+- What is the average extra data charges for customers who are not on unlimited data planand consumed more than 10 gigabytes of dat- Services ea
 
 ### Data Source
-The dataset used for this analysis was provided by (PWC virtual job simmulation on forage platform)
+The dataset used for this analysis was provided by DataCamp
 
 ### Tools
-Powerbi (Data Cleaning, Data Modeling, Data Analysis and Visualisation)
+Powerbi (Data Cleaning, EDA, Data Analysis and Visualisation)
 Data Cleaning and Preparation
 
 ### Data Preparation Phase, we performed the following tasks:
