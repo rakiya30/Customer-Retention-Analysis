@@ -56,6 +56,8 @@ Rounded Down
 
 ![Churn Insights](https://github.com/rakiya30/Customer-Retention-Analysis/assets/154539987/4814b18f-7aaa-450d-b066-1ea4c8a9b6bf)
 
+- Overview: 
+
 
 - Customer Segmentation: Through careful analysis we identified distinct customer segments
 based on their behaviour, demographics and preferences understanding these segments can
