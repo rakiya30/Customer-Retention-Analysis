@@ -64,28 +64,29 @@ Rounded Down
   
 - Customer Segmentation: Through careful analysis we identified distinct customer segments
 based on their behaviour, demographics and preferences understanding these segments can
-help tailor retention strategies to specific customer needs. Our analysis also revealed that
-the number of male customers was higher than females. also, not senior citizen in the
-gender male made up 42.33%, Average count of customer was higher for male (1777.50)
-Female (1744). Majority of our customers do not have partners nor dependents.
+help tailor retention strategies to specific customer needs. Our analysis also revealed that at 38.46%, Senior had the highest Churn Rate and was 67.20% higher than Under 30, which had the lowest Churn Rate at 23.00%.
 
-- Churn patterns: We observed that significant number of customers churn after one month
-of their relationship with the company. Also, Month to month contract also accounts for the
+- Churn patterns:direct debit had the highest Average of Account Length (in months) (50.53) and Paper Check had the highest Churn Rate (57.33%). The Contract Category with the highest Average of Account Length (in months) was Yearly and the Contract Category with the highest Churn Rate was Monthly.﻿Also, Month to month contract also accounts for the
 highest number of churn when compared with the two other types of contracts. This
 indicates the importance of focusing on early engagement and ensuring positive onboarding
 experience.
 
-- Contract: from our findings most customers opt for the month- month contract which
-amounted to (3875), two year (1695) and one year (1473). However there seem to be a high
-churn trend with customers who opted for the month- month contract.
+- Payment Method: Direct Debit had the highest Number of Customers at 3702, followed by Credit Card at 2614 and Paper Check at 371.﻿ from our findings ﻿
+﻿﻿Direct Debit accounted for 71.62% of Number of Customers.﻿﻿
+﻿﻿
 
-- Payment method: most customers seem to prefer the Electronic check which takes up
-33.58% of the total number of customers who use the service, Mail check (22.89%), Bank
-transfer (21.92%), and the least preferred payment method Credit card (21.61%).
 
-- Ticket: A total of 3632 Admin tickets and 2955 Tech Tickets were opened.
+- Insights: Less than 5GB in Unlimited Data Plan  made up 20.70% of Churn Rate.
+- Average Churn Rate was higher for Yes (0.32) than No (0.24).
+- Churn Rate for Yes and No diverged the most when the Grouped Consumption was Less than 5GB, when Yes were 22.40% higher than No.
+- We also observed that 72% of customers who actively make international calls but do not have an international plan.
+- Also customers who belong to age group 50 and have account length of 12 months we noticed that the churn rate for this group increases over time.
+- The Average number of customer servicecalls for customers who are on a monthly contract and pay by direct debit is at 1.47.
+- 32% of customers pay extra for their additional usage because they are not on unlimited data plan
 
-- Tenure: from the insights the least tenure is one month with 72 months been the highest.
+  
+
+
   
 
 
