@@ -56,9 +56,12 @@ Rounded Down
 
 ![Churn Insights](https://github.com/rakiya30/Customer-Retention-Analysis/assets/154539987/4814b18f-7aaa-450d-b066-1ea4c8a9b6bf)
 
-- Overview: 
-
-
+- Overview: The Churn Rate for Databel is 27% and 45% of the reasons why customers churn is related to competitors.
+- A total of 1796 Databel Customers Churned
+- The Churn Rate in Califonia is Abnormally high at 60%. Our insights also reveal that Customers within CA had the highest churn rate for customers who have a month-month contract
+- Customers who have monthly contracts churn more than customers who have yearly based contracts.
+  
+  
 - Customer Segmentation: Through careful analysis we identified distinct customer segments
 based on their behaviour, demographics and preferences understanding these segments can
 help tailor retention strategies to specific customer needs. Our analysis also revealed that
