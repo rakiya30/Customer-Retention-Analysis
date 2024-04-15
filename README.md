@@ -7,21 +7,21 @@ An Analysis on Telecom CustomerChurn Rate
 This data analysis project aims to provide inghts and recommendations on customer retention and churn rate that reflects all the relevant Key Performance Indicators(KPIs) and metrics in the dataset
 
 ### Problem Statement
-The retention manager from telecom reached out to me via emil and asked if i could put together a dashboard that would cover the following:
+This Report Would be Analysing and Proiding Answers and Recommendation to the following Business Question :
 
-- Customer retention and churn rate as they do not want to lose their customers.
-- The company want to know in advance who is at risk.
+- Customer churn rate as they do not want to lose their customers.
+- Databel wants to know in advance who is at risk.
 - Investigate the different reasons why customers churn.
-- The company is wondering if the promos launched by competitors in certain states has impacted customers.
+- Databel is wondering if the promos launched by competitors in certain states has impacted customers.
 - Ivestigate the churn rate by state.
-- An Aanalysis of customer demographic using age ("Senior", "Under 30", "Others")
-- Analyse customer age and their respective churn rate.
-- Analyse if customers that are part of a group indeed have a lower  phone bill and if it has an impact on churn rate
+- An Aanalysis of Databel customer demographic using age ("Senior", "Under 30", "Others")
+- Analyse Customer age and their respective Churn Rate.
+- Analyse if Customers that are part of a group indeed have a lower phone bill and if it has an impact on Churn Rate
 - Customers who left within the last month.
-- How does Unlimited data plan influence churn rate
-- Analyse the international activity of customers and its relationship to churn. Databel are curious about the behaviour of customers who call internationallyand if paying for an international plan influences their loyalty
+- How does Unlimited data plan influence Churn Rate
+- Analyse the International Activity of customers and its relationship to Churn. Databel are curious about the behaviour of customers who call internationallyand if paying for an international plan influences their loyalty
 - Ivestigate three Important topics related to customers, their payment method,the contract type and how many months a person has been a customer.
-- What is the average extra data charges for customers who are not on unlimited data planand consumed more than 10 gigabytes of dat- Services ea
+- What is the average extra data charges for customers who are not on unlimited data planand consumed more than 10 gigabytes of data.
 
 ### Data Source
 The dataset used for this analysis was provided by DataCamp
@@ -41,10 +41,10 @@ Extracted text Before Delimiter
 Replaced Values
 Rounded Down
 
-![retention screenshot](https://github.com/rakiya30/Customer-Retention-Analysis/assets/154539987/1e2f2ab9-8154-4a59-963e-7d5969aa2d79)
 
 ### Data Modeling
-dataset comprised of just one table and no relationships were created
+- dataset comprised of just one table and no relationships were created
+  
 
 ![data model (customer retention)](https://github.com/rakiya30/Customer-Retention-Analysis/assets/154539987/16590c4f-7b8d-418d-9610-e730375aee45)
 
