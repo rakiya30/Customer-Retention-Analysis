@@ -19,8 +19,8 @@ This Report Would be Analysing and Providing Answers and Recommendation to the f
 - Analyse if Customers that are part of a group indeed have a lower phone bill and if it has an impact on Churn Rate
 - Customers who left within the last month.
 - How does Unlimited data plan influence Churn Rate
-- Analyse the International Activity of customers and its relationship to Churn. Databel are curious about the behaviour of customers who call internationallyand if paying for an international plan influences their loyalty
-- Ivestigate three Important topics related to customers, their payment method,the contract type and how many months a person has been a customer.
+- Analyse the International Activity of customers and its relationship to Churn. Databel are curious about the behaviour of customers who call internationally and if paying for an international plan influences their loyalty
+- Investigate three Important topics related to customers, their payment method,the contract type and how many months a person has been a customer.
 - What is the average extra data charges for customers who are not on unlimited data planand consumed more than 10 gigabytes of data.
 
 ### Data Source
