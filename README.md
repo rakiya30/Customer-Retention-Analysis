@@ -43,7 +43,7 @@ Data Cleaning and Preparation
 
 
 ### Data Modeling
-- dataset comprised of just one table and no relationships were created
+- Dataset comprised of just one table and no relationships were created
 
 
 ### The Results of my Analysis is summarized as follows:
@@ -117,4 +117,4 @@ concerns address their needs and use their feedback to drive continuous improvem
 I believe that implementing these recommendations will significantly improve customer retention
 and reduce churn rate. 
 
-- Click here to Download and interact with my Report: https://github.com/rakiya30/Customer-Retention-Analysis/tree/main
+- Click Here to Download and Interact With My Report: https://github.com/rakiya30/Customer-Retention-Analysis/tree/main
